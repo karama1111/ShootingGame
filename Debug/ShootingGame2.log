@@ -1,0 +1,21 @@
+﻿Build started 2017/01/15 16:29:17.
+     1>Project "C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\ShootingGame2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\\Library\DXLib" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt sub.cpp
+         sub.cpp
+     1>c:\users\管理者\dropbox\visual studio 2012\projects\shootinggame\sub.cpp(80): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\管理者\dropbox\visual studio 2012\projects\shootinggame\sub.cpp(81): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\管理者\dropbox\visual studio 2012\projects\shootinggame\sub.cpp(159): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\管理者\dropbox\visual studio 2012\projects\shootinggame\sub.cpp(167): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\管理者\dropbox\visual studio 2012\projects\shootinggame\sub.cpp(179): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\管理者\dropbox\visual studio 2012\projects\shootinggame\sub.cpp(250): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\管理者\dropbox\visual studio 2012\projects\shootinggame\sub.cpp(251): warning C4244: '=' : 'double' から 'int' への変換です。データが失われる可能性があります。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\Debug\ShootingGame.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\\Library\DXLib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\Debug\ShootingGame.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\Debug\ShootingGame.lib" /MACHINE:X86 Debug\main.obj
+         Debug\sub.obj
+         ShootingGame2.vcxproj -> C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\Debug\ShootingGame.exe
+     1>Done Building Project "C:\Users\管理者\Dropbox\Visual Studio 2012\Projects\ShootingGame\ShootingGame2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.32
